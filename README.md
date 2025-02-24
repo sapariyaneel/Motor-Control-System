@@ -2,8 +2,6 @@
 
 A sophisticated motor control and monitoring system with real-time gyroscope data visualization, encoder feedback, and advanced motor control capabilities.
 
-![Logo](logo.png)
-
 ## Features
 
 - **Real-time Motor Control**: Control up to three motors simultaneously with precise position and velocity control
@@ -104,4 +102,4 @@ For technical support or questions, please contact the development team.
 
 ---
 
-Built with ❤️ by the Motor Control System Team 
+Made By Neel Sapariya
