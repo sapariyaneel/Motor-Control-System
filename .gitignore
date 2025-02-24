@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.spec
+
+# PyInstaller
+*.manifest
+*.spec
+Output/
+installers/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.log
+*.csv
+!requirements/*.txt
+MotorControlSystem.exe
+
+# Temporary files
+*.bak
+*.tmp
+*~
+
+# Debug files
+*.debug
+*.pdb
+
+# Environment variables
+.env
+.env.* 
